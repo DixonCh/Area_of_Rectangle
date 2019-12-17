@@ -1,0 +1,11 @@
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.exe
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.deps.json
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.runtimeconfig.json
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.runtimeconfig.dev.json
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.dll
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\bin\Debug\netcoreapp3.1\Area_of_Rectangle.pdb
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\netcoreapp3.1\Area_of_Rectangle.csprojAssemblyReference.cache
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\netcoreapp3.1\Area_of_Rectangle.AssemblyInfoInputs.cache
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\netcoreapp3.1\Area_of_Rectangle.AssemblyInfo.cs
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\netcoreapp3.1\Area_of_Rectangle.dll
+C:\Users\Dixon\source\repos\Area_of_Rectangle\Area_of_Rectangle\obj\Debug\netcoreapp3.1\Area_of_Rectangle.pdb
